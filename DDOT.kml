@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<GroundOverlay>
+	<name>DDOT</name>
+	<description><![CDATA[<img style="max-width:500px;" src="file:///C:/Users/SPrince/Desktop/DDOT-logo-print.png">]]></description>
+	<Icon>
+		<href>https://www.dropbox.com/s/osujrva818ftnqb/DDOT-logo-print.png?dl=1</href>
+		<viewBoundScale>0.75</viewBoundScale>
+	</Icon>
+	<LatLonBox>
+		<north>42.32369201966036</north>
+		<south>42.28778632598959</south>
+		<east>-83.00330890326917</east>
+		<west>-83.05245135610181</west>
+	</LatLonBox>
+</GroundOverlay>
+</kml>
